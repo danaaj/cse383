@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF­8"?>
+<document xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="en">
+<document>
+	<author>Alex Dana</author>
+	<xmluses>
+		<use1>ordering</use1>
+		<use2>banking</use2>
+		<use3>logistics</use3>
+	</xmluses>
+	<argument>
+		XML is generally said to be very verbose and too much so. It becomes very tedious to work with.
+		This is a large disadvantage because the writability suffers too much. It may be very readable but
+		could be easily readable without the extent of verbosity that it possesses.
+	</argument>
+</document>
